@@ -5,6 +5,12 @@ Run with:
 """
 from __future__ import annotations
 
+# Force pure-Python protobuf implementation BEFORE any chromadb / opentelemetry
+# import. Required on Streamlit Cloud where the bundled C++ protobuf rejects
+# the old descriptor API used by chromadb's opentelemetry deps.
+import os
+os.environ.setdefault("PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION", "python")
+
 import streamlit as st
 
 from src.config import settings

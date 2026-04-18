@@ -1,6 +1,11 @@
 """Manage the medical document knowledge base: upload, inspect, reset."""
 from __future__ import annotations
 
+# Force pure-Python protobuf implementation BEFORE chromadb is imported
+# (via src.vector_store). See app.py for context.
+import os
+os.environ.setdefault("PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION", "python")
+
 from pathlib import Path
 
 import streamlit as st
