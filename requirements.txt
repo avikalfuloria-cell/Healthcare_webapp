@@ -13,7 +13,7 @@ langchain-anthropic>=0.2.0
 langchain-text-splitters>=0.3.0
 
 # Vector DB
-chromadb>=0.5.5
+faiss-cpu>=1.8.0
 
 # Embeddings (PubMedBERT via sentence-transformers)
 sentence-transformers>=3.0.1
