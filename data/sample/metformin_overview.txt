@@ -1,0 +1,56 @@
+Title: Metformin in Type 2 Diabetes — Educational Summary
+Note: Original synthetic summary written for demo purposes. Not a substitute for a clinical reference.
+
+1. Background
+Metformin is a biguanide oral antihyperglycemic agent and is widely recommended
+as the first-line pharmacologic therapy for type 2 diabetes mellitus (T2DM) in
+adults without contraindications. It improves glycemic control primarily by
+reducing hepatic gluconeogenesis and, to a lesser extent, by improving
+peripheral insulin sensitivity.
+
+2. Efficacy
+In typical clinical use, metformin lowers HbA1c by approximately 1.0–1.5
+percentage points when used as monotherapy in treatment-naive patients.
+Compared with sulfonylureas, metformin is associated with similar or modestly
+better long-term glycemic durability and a lower risk of hypoglycemia.
+
+3. Cardiovascular and weight effects
+Unlike sulfonylureas and insulin, metformin is weight-neutral or modestly
+weight-lowering. Long-term observational data and the UKPDS trial suggest a
+possible cardiovascular benefit in overweight patients with T2DM, though the
+magnitude of effect remains debated.
+
+4. Adverse effects
+The most common adverse effects are gastrointestinal: nausea, diarrhea,
+abdominal discomfort, and metallic taste. These are typically dose-dependent
+and improve when the medication is taken with food and titrated slowly.
+Long-term use can be associated with vitamin B12 deficiency; periodic
+monitoring is reasonable in patients on extended therapy.
+
+5. Lactic acidosis
+Metformin-associated lactic acidosis (MALA) is rare but serious. The risk is
+elevated in conditions that promote tissue hypoxia or impair drug clearance:
+acute kidney injury, severe heart failure with hypoperfusion, sepsis, severe
+hepatic disease, and conditions involving acute volume depletion.
+
+6. Contraindications and cautions
+- Estimated GFR (eGFR) < 30 mL/min/1.73 m² — contraindicated.
+- eGFR 30–45 mL/min/1.73 m² — use with caution; consider dose reduction and
+  do not initiate.
+- Acute or unstable heart failure.
+- Hepatic impairment with risk of lactic acidosis.
+- Hold metformin around iodinated contrast administration when eGFR is
+  reduced (commonly < 60 mL/min/1.73 m²) and resume after renal function is
+  reassessed.
+
+7. Dosing
+Typical adult starting dose is 500 mg once or twice daily with meals,
+titrated weekly as tolerated to a maximum of 2000–2550 mg/day in divided
+doses. Extended-release formulations may improve tolerability.
+
+8. Place in therapy
+Recent guidelines (e.g., ADA Standards of Care) continue to support metformin
+as first-line therapy for most adults with T2DM. However, in patients with
+established atherosclerotic cardiovascular disease, heart failure, or
+chronic kidney disease, an SGLT2 inhibitor or GLP-1 receptor agonist may be
+preferred or added regardless of HbA1c.

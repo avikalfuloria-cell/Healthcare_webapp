@@ -1,0 +1,61 @@
+Title: Hypertension Management — Educational Summary
+Note: Original synthetic summary written for demo purposes; not a clinical guideline.
+
+1. Definitions (adult, office BP)
+- Normal: < 120/80 mmHg.
+- Elevated: 120–129 systolic AND < 80 diastolic.
+- Stage 1 hypertension: 130–139 / 80–89 (per ACC/AHA 2017) or ≥ 140/90 in
+  some other guidelines.
+- Stage 2 hypertension: ≥ 140 / ≥ 90.
+- Hypertensive urgency: ≥ 180/120 without acute end-organ damage.
+- Hypertensive emergency: ≥ 180/120 with acute end-organ damage.
+
+2. Diagnosis
+Hypertension should not be diagnosed on a single measurement. Confirm with
+out-of-office measurements where possible (home BP monitoring or 24-hour
+ambulatory BP monitoring) to exclude white-coat hypertension and identify
+masked hypertension.
+
+3. Lifestyle modification (first-line for everyone)
+- DASH-style dietary pattern: rich in vegetables, fruits, whole grains, low-fat
+  dairy; reduced saturated fat and sodium.
+- Sodium restriction (commonly < 2.3 g/day, ideally < 1.5 g/day).
+- Weight loss in overweight/obese individuals; ~1 mmHg drop per kg lost on
+  average.
+- Aerobic and dynamic resistance exercise (≥ 150 min/week moderate-intensity).
+- Limit alcohol to ≤ 2 drinks/day (men) and ≤ 1 drink/day (women).
+- Smoking cessation (for cardiovascular risk reduction overall).
+
+4. Pharmacologic therapy — first-line classes
+- Thiazide-type diuretics (e.g., chlorthalidone, indapamide preferred over
+  hydrochlorothiazide for outcomes data and longer half-life).
+- ACE inhibitors (e.g., lisinopril) or ARBs (e.g., losartan).
+- Calcium channel blockers, dihydropyridine type (e.g., amlodipine).
+Initial monotherapy is reasonable in stage 1 with low cardiovascular risk;
+combination therapy is often preferred when BP is ≥ 20/10 mmHg above goal
+or in stage 2.
+
+5. Compelling indications (favored agents)
+- Diabetes with albuminuria: ACEi or ARB.
+- Heart failure with reduced ejection fraction: ARNI / ACEi / ARB +
+  beta-blocker + MRA + SGLT2 inhibitor.
+- Post-myocardial infarction: beta-blocker + ACEi or ARB.
+- Black adults without compelling indication: thiazide or CCB often preferred
+  initially; combine with ACEi/ARB if needed.
+- Pregnancy: labetalol, nifedipine ER, or methyldopa. Avoid ACEi, ARBs,
+  direct renin inhibitors, and aldosterone antagonists.
+
+6. Treatment targets
+For most adults, a target office BP < 130/80 mmHg is reasonable based on
+SPRINT-era evidence, with attention to orthostatic symptoms and frailty.
+In older adults or those with multiple comorbidities, individualize the
+target to balance benefit and the risk of falls and acute kidney injury.
+
+7. Resistant hypertension
+Defined as BP above goal despite adherence to ≥ 3 antihypertensives at
+optimal doses, ideally including a diuretic. Consider:
+- Confirming adherence and accurate measurement.
+- Screening for secondary causes (primary aldosteronism, OSA, renal artery
+  stenosis, pheochromocytoma, Cushing, drug-induced).
+- Adding a mineralocorticoid receptor antagonist (e.g., spironolactone) as
+  fourth-line therapy (PATHWAY-2).

@@ -1,0 +1,28 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  lint-and-import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Compile-check all Python files
+        run: python -m compileall -q src app.py pages scripts
+      - name: Smoke-import core modules (no LLM call)
+        env:
+          ANTHROPIC_API_KEY: "dummy-not-used"
+        run: |
+          python -c "from src.config import settings; print(settings)"
+          python -c "from src.document_loader import load_bytes; print(load_bytes('x.txt', b'hello world '*200)[:1])"

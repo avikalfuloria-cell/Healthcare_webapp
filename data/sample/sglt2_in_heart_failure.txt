@@ -1,0 +1,53 @@
+Title: SGLT2 Inhibitors in Heart Failure — Educational Summary
+Note: Original synthetic summary written for demo purposes.
+
+1. Class overview
+Sodium-glucose cotransporter-2 (SGLT2) inhibitors block glucose reabsorption
+in the proximal renal tubule, producing glucosuria and modest natriuresis.
+The class includes empagliflozin, dapagliflozin, canagliflozin, and
+ertugliflozin. Although developed for type 2 diabetes, several agents have
+demonstrated benefit in heart failure independent of diabetes status.
+
+2. Heart failure with reduced ejection fraction (HFrEF)
+Two large randomized trials (DAPA-HF with dapagliflozin and EMPEROR-Reduced
+with empagliflozin) showed a statistically significant reduction in the
+composite of cardiovascular death or worsening heart failure in patients
+with HFrEF (LVEF ≤ 40%), regardless of baseline diabetes status. Number
+needed to treat (NNT) was approximately 19–21 over roughly 1.5 years.
+
+3. Heart failure with preserved ejection fraction (HFpEF)
+EMPEROR-Preserved (empagliflozin) and DELIVER (dapagliflozin) extended these
+benefits to patients with LVEF > 40%. The relative risk reduction in heart
+failure hospitalizations was meaningful, while the impact on cardiovascular
+mortality was smaller and less consistent than in HFrEF.
+
+4. Renal effects
+SGLT2 inhibitors reduce progression of chronic kidney disease (CKD) and the
+risk of end-stage kidney disease in patients with diabetic and non-diabetic
+CKD, as shown in trials such as DAPA-CKD and EMPA-KIDNEY. There is typically
+a small initial dip in eGFR after initiation that is reversible and does not
+warrant discontinuation.
+
+5. Adverse effects
+- Genital mycotic infections (more common in women).
+- Volume depletion, especially when combined with diuretics.
+- Diabetic ketoacidosis, including euglycemic DKA — rare but important to
+  recognize, particularly perioperatively.
+- Lower-limb amputation signal historically associated with canagliflozin in
+  CANVAS; subsequent data have been more reassuring.
+- Fournier gangrene — very rare necrotizing fasciitis of the perineum.
+
+6. Practical considerations
+- Hold the drug during acute illness with poor oral intake or planned major
+  surgery to reduce DKA risk.
+- Consider down-titrating loop diuretics on initiation to mitigate volume
+  depletion.
+- Initiation is generally safe down to eGFR ≈ 20 mL/min/1.73 m², depending
+  on the agent and the indication.
+
+7. Guideline status
+Major heart failure guidelines (e.g., ACC/AHA/HFSA, ESC) now recommend an
+SGLT2 inhibitor as part of foundational guideline-directed medical therapy
+for HFrEF, alongside an ARNI (or ACEi/ARB), beta-blocker, and mineralocorticoid
+receptor antagonist. Recommendations for HFpEF are increasingly supportive
+based on EMPEROR-Preserved and DELIVER.
